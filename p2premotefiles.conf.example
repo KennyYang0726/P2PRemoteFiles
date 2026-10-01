@@ -1,0 +1,4 @@
+# P2PRemoteFiles Android client endpoint configuration.
+# Copy this file to p2premotefiles.conf, then replace the values with your own server.
+VPS_SIGNALING_URL=wss://remote.example.invalid/ws
+VPS_RELAY_URL=wss://remote.example.invalid/relay
